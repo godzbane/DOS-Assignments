@@ -169,7 +169,6 @@ func NodeProcess(n Node) {
 
 			}
 			
-			
 			// Send self Node data to other node if other node does not have me in its address book
 			
 			j := 0
